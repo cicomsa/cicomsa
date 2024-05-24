@@ -12,7 +12,7 @@ As a person, I enjoy digging deep to uncover the root cause of problems, and I a
 
 ☁️ Cloud: AWS Lambda, AWS S3, AWS DynamoDB, AWS SNS, AWS EC2, AWS RDS, AWS API Gateway, AWS Cloudwatch
 
-📊 Methodologies: SCRUM, Agile, TDD
+📊 Methodologies: Agile, TDD
 
 🤔 Interests: Software Architecture
 
