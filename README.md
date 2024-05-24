@@ -1,6 +1,6 @@
 ## Hi! This is Ioana 👋🏻
 
-I am a Software Engineer with proven experience in TypeScript, React, Node.js, and AWS services, and with strong knowledge in microservices and event-driven architecture. I am passionate about solving problems that positively impact people's well-being and in simplifying intricate processes.
+I am a Software Engineer with experience in TypeScript, React, Node.js, and AWS services, and with knowledge in microservices and event-driven architecture. I am passionate about solving problems that positively impact people's well-being and in simplifying intricate processes.
 
 Currently, I work at Cazoo as a Software Engineer on high-impact projects in a fast-paced environment where I have developed a strong interest in software architecture.
 
