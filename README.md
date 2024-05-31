@@ -1,18 +1,20 @@
 ## Hi! This is Ioana 👋🏻
 
-I am a Software Engineer with experience in TypeScript, React, Node.js, and AWS services, and with knowledge in microservices and event-driven architecture. I am passionate about solving problems that positively impact people's well-being and in simplifying intricate processes.
+I am a Full-Stack Software Engineer with 5 years experience in TypeScript, React, Node.js, and AWS services. I am passionate about solving problems that positively impact people's well-being and in simplifying intricate processes. 
 
 Currently, I work at Cazoo as a Software Engineer on high-impact projects in a fast-paced environment where I have developed a strong interest in software architecture.
 
 As a person, I enjoy digging deep to uncover the root cause of problems, and I am driven by curiosity and continuous improvement in both my professional life and as a human being.
 
-💻 Programming Languages: JavaScript, TypeScript, Shopify Liquid, Python, YAML, Terraform
+💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: React.js, Next.js, Redux, Node.js, Salesforce, JSforce, Commercetools, i18Next, Jest, Docker, PostgreSQL
+🔧Technologies: React.js, Next.js, Redux, Node.js, Salesforce, JSforce, Commercetools, i18Next, Jest, Docker, PostgreSQL, YAML, Terraform
 
-☁️ Cloud: AWS Lambda, AWS S3, AWS DynamoDB, AWS SNS, AWS EC2, AWS RDS, AWS API Gateway, AWS Cloudwatch
+☁️ Cloud: AWS services - Lambda, S3, DynamoDB, EventBridge, SNS, SQS, EC2, RDS, API Gateway, Cloudwatch, AppFlow
 
 📊 Methodologies: Agile, TDD
+
+🎁 Other: Web Performance, Restful APIs, Serverless, Microservices Architecture, Event-Driven Architecture, Micro Frontends Architecture, Domain Driven Architecture, Hexagonal Architecture, Pair-Programming, Git, Swagger, Sentry, Datadog, JumpCloud, Opsgenie, FullStory, Storybook, Retool, JIRA
 
 🤔 Interests: Software Architecture
 
